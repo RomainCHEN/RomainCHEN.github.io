@@ -1,61 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on RomainChen</title>
-    <link>https://romainchen.github.io/blog/</link>
-    <description>Recent content in Blogs on RomainChen</description>
+    <title>Posts on RomainChen</title>
+    <link>https://romainchen.github.io/posts/</link>
+    <description>Recent content in Posts on RomainChen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 04 Jun 2022 23:44:43 +0800</lastBuildDate><atom:link href="https://romainchen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jun 2022 23:44:43 +0800</lastBuildDate><atom:link href="https://romainchen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于这个我要写一生的文档</title>
-      <link>https://romainchen.github.io/blog/blog-test/</link>
+      <link>https://romainchen.github.io/posts/blog-test/</link>
       <pubDate>Sat, 04 Jun 2022 23:44:43 +0800</pubDate>
       
-      <guid>https://romainchen.github.io/blog/blog-test/</guid>
+      <guid>https://romainchen.github.io/posts/blog-test/</guid>
       <description>简单说一下，这是一个将会记录我日后所有思想成果的word文档。我常常在反思，为什么有时候我看了那么多电影、读了那么多文章、经历过那么多事，一段时间过后就会渐渐淡忘，或许我刚看完的时候有各种各样的收获，或因电影里一个长镜头、某个角色的一句话，抑或是某本书里让我读完之后醍醐灌顶的段落……
 我是个喜欢思考的人。但是仅仅是思考还不够。日常生活当中总会有这样或那样的知识和观点涌入我们的大脑，这是灵感的import；然后通过自己的思考，提炼出某个观点（评论）。以往观点形成之后我只会将其短暂地储存在大脑当中，除非我在记忆还存余的时间内跟别人share过，否则很快就会遗忘。如今我想通过这个文档记录下来那些偶然迸发的灵感和点子、脑子里加工处理过的奇妙idea，这都是属于我对知识的output。
 此外，我希望通过这个文档可以树立一套独立于我在学校所学内容的知识体系，它可以成为我日后各种文章信手拈来的素材库，可以成为我和朋友交谈时的“谈资”，当然最重要的还是给我看待生活、处理问题多一种创新的解决思路。
 我制作这个文档的灵感来源于「少年得到」的怀沙老师，他是一位优秀的科幻作品解读者，和网上绝大多数的解说不一样，怀沙老师在解读每部科幻作品的同时还会在结尾加上自己的感悟，这些感悟可不只是单纯的上价值，它是结合我们生活实际的，同时又具有指导意义的。
 我想对知识的output很重要的一点就是要杜绝「假、大、空」，不应该像小学生的作文那样，动不动就是真感动、真勇敢，再不来就是无私奉献、大爱无边。不是说这些感悟有错，但是它们未免太“虚”了，往往给人的感觉就是“道理我都懂，但我就是不会做”，所以在撰写这个文档的过程也是我对「有价值的感悟」的探索。
 写这篇介绍的时候是2022年6月4日星期六晚上23:44，房间里亮着黄色的灯光、充斥着宜家青草味香薰蜡烛的芬芳，我正在放端午假，后续还有几天的高考假期，希望明天能早起写作业。就在我按下「command+s」准备关闭文档的时候，我妈妈——Candy发来了微信：睡觉吧。</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://romainchen.github.io/blog/markdown-syntax-guide/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://romainchen.github.io/blog/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://romainchen.github.io/blog/math-typesetting/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://romainchen.github.io/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://romainchen.github.io/blog/rich-text/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://romainchen.github.io/blog/rich-text/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
-    </item>
-    
-    <item>
-      <title>Welcome To Codex</title>
-      <link>https://romainchen.github.io/blog/example-post/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://romainchen.github.io/blog/example-post/</guid>
-      <description>The standard Lorem Ipsum passage &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>
